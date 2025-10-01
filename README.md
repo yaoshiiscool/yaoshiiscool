@@ -1,5 +1,7 @@
 Hi, I'm Samuel, a first-year student at the University of Chicago (Class of 2029) and a graduate of the International School of Beijing. 
 
+Former Club President of ISB's HS Robotics Team & mentor for the ISB MS Robotics Team. 
+
 <!--
 **yaoshiiscool/yaoshiiscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
