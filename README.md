@@ -1,4 +1,4 @@
-Hi, I'm Samuel, an incoming freshman at the University of Chicago (Class of 2029) and a graduate of the International School of Beijing. 
+Hi, I'm Samuel, a first-year student at the University of Chicago (Class of 2029) and a graduate of the International School of Beijing. 
 
 <!--
 **yaoshiiscool/yaoshiiscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
